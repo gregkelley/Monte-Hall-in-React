@@ -1,0 +1,29 @@
+.doors {
+    top: 0;
+    left: 0;
+    flex: 1; 
+    /* flex:1 --> fill the whole space */
+    height: 52rem;
+    background-color: #8a2b06;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2%;
+  }
+
+  /* .doors {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 90%;
+    height: 52rem;
+    background-color: #8a2b06;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2%;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  }
+   */
